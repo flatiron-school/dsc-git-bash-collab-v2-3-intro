@@ -35,3 +35,6 @@ Pay close attention to the commands outlined in **Getting Started with Git**:  `
 Once you have developed your understanding of the essential bash commands and the fundamental git workflow, the lessons in the Appendix will teach you about collaborating with git.  This will be important when you are working on teams, either at Flatiron or on the job.  You will become familiar with creating and merging branches using `git merge`, `git branch`, `git checkout`.  You will also practice resolving a merge conflict using a new command, `git stash`.  
 
 
+```python
+
+```
